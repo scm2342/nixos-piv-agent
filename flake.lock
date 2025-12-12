@@ -3,11 +3,11 @@
     "flake-compat": {
       "flake": false,
       "locked": {
-        "lastModified": 1747046372,
-        "narHash": "sha256-CIVLLkVgvHYbgI2UpXvIIBJ12HWgX+fjA8Xf8PUmqCY=",
+        "lastModified": 1765121682,
+        "narHash": "sha256-4VBOP18BFeiPkyhy9o4ssBNQEvfvv1kXkasAYd0+rrA=",
         "owner": "edolstra",
         "repo": "flake-compat",
-        "rev": "9100a0f413b0c601e0533d1d94ffd501ce2e7885",
+        "rev": "65f23138d8d09a92e30f1e5c87611b23ef451bf3",
         "type": "github"
       },
       "original": {
@@ -36,11 +36,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1756887604,
-        "narHash": "sha256-y2bkWcUZYjgf9GUjpPm3Bl7G8AyAhdrzYvAlmk/j/9M=",
+        "lastModified": 1765571966,
+        "narHash": "sha256-DGe9ecnIRLeI5HNXGShGMjWn3u3GFyv/ku3qijMRCOY=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "afd52fc54ab519fceefc8a4e76a129f95be2e328",
+        "rev": "99a72f8943f774971e010e2af9c1c995d76943af",
         "type": "github"
       },
       "original": {
